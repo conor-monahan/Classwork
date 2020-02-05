@@ -46,6 +46,7 @@ public class ArrayListProcessing
             System.out.println(inList.get(i));
     }
     
+    // Number 5
     public static void findElements(ArrayList<String> inList, String thing)
     {
         for(int i = 0; i<inList.size(); i++)
